@@ -7,11 +7,17 @@ execution scope.
 
 This is the script I've added. It adds the following commands:
 
-## /gif <search query>
+## Usage
+
+Open your IRCCloud Desktop client, and choose File > Reveal User Script. The place that's revealed is where the script needs to go. Either copy it in there, or you can symlink it there (that's what I do).
+
+## Commands
+
+### /gif <search query>
 
 This will search [giphy](https://giphy.com) for your query, and insert the first result that it returns. Pretty high risk, but sometimes hilarious.
 
-## /shrug
+### /shrug
 
 Inserts
 
@@ -19,7 +25,7 @@ Inserts
 
 into the current channel.
 
-## /tableflip
+### /tableflip
 
 Inserts
 
