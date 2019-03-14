@@ -35,7 +35,7 @@ function getGIF(words) {
 }
 
 function shrug() {
-  return Promise.resolve("¯\_(ツ)_/¯");
+  return Promise.resolve("¯\\_(ツ)_/¯");
 }
 
 function tableflip() {
