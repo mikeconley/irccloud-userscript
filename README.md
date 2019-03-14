@@ -9,7 +9,7 @@ This is the script I've added. It adds the following commands:
 
 ## Usage
 
-Open your IRCCloud Desktop client, and choose File > Reveal User Script. The place that's revealed is where the script needs to go. Either copy it in there, or you can symlink it there (that's what I do).
+Open your IRCCloud Desktop client, and choose File > Reveal User Script. The place that's revealed is where the script needs to go. Just copy the file to there, and away you go.
 
 ## Commands
 
